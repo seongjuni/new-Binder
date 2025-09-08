@@ -1,2 +1,5 @@
 # new-Binder
 기존 노트 바인더의 아이디어는 유지하되, 코드를 처음부터 새로 리팩토링하여 제작
+
+기존 노트 바인더 url
+https://github.com/seongjuni/NoteBinder
